@@ -32,3 +32,9 @@ Living docs may be corrected for factual accuracy, deprecation status, setup, an
 ## Git safety
 
 Inspect status and diff before committing. Do not discard unrelated work, rewrite history, force-push, or use destructive cleanup. Keep any legacy maintenance change narrowly scoped and explain why it belongs here rather than in `quantdale/monitorers`.
+
+## Cross-project UX, DX, and AX principles
+
+Cut taglines, helper text and secondary labels. If a screen needs them to make sense, fix the layout.
+
+Make the best decision that will elevate all three: the user experience (UX), developer experience (DX), and agent experience (AX) always, without breaking anything.
